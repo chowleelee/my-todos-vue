@@ -1,0 +1,23 @@
+{
+  "name": "15622",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "store2": "store#^2.5.2",
+    "vue": "^2.4.2"
+  },
+  "devDependencies": {},
+  "authors": [
+    "chowleelee <15622150164@163.com>"
+  ],
+  "private": true
+}
